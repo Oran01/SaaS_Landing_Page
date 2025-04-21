@@ -56,24 +56,31 @@ It features scroll-based animations, responsive layout, utility-first styling wi
 
 ## 🛠 Getting Started
 
-Clone the project and install dependencies:
+1. **Clone the repository:**
 
 ```bash
 git clone https://github.com/Oran01/SaaS_Landing_Page.git
 cd SaaS_Landing_Page
 
-# install dependencies
+```
+
+2. **Install dependencies:**
+
+```bash
 npm install
 # or
 yarn install
+```
 
-# Run the development server
+3. **Run the development server:**
+
+```bash
 npm run dev
 # or
 yarn dev
-
-# Open your browser at http://localhost:3000 to view it.
 ```
+
+4. Open your browser at http://localhost:3000 to view it.
 
 ---
 
