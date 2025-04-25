@@ -27,6 +27,14 @@ This project replicates a stunning landing page design inspired by [Frontend Tri
 
 It features scroll-based animations, responsive layout, utility-first styling with Tailwind CSS, and smooth entrance transitions powered by Framer Motion.
 
+---
+
+## 📸 Demo
+
+![Layers Demo](./src/assets/images/demo-screenshot.png)
+
+---
+
 ### 🔍 Highlights
 
 - ✅ Responsive navigation with animated mobile menu
