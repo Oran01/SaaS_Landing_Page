@@ -138,7 +138,7 @@ export default function Hero() {
 
         {/* Supporting subheading */}
         <p className="text-center text-xl text-white/50 mt-8 max-w-2xl mx-auto">
-          Design tools shouldn't slow you down. Layers combines powerful
+          Design tools shouldn&#39;t slow you down. Layers combines powerful
           features with an intuitive interface that keep you in your creative
           flow.
         </p>

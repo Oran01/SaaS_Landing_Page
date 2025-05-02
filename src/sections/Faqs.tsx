@@ -28,7 +28,7 @@ const faqs = [
   {
     question: "Can I work offline?",
     answer:
-      "Yes! Layers includes a robust offline mode. Changes sync automatically when you're back online, so you can keep working anywhere.",
+      "Yes! Layers includes a robust offline mode. Changes sync automatically when you&#39;re back online, so you can keep working anywhere.",
   },
   {
     question: "How does Layers handle collaboration?",
@@ -59,7 +59,8 @@ export default function Faqs() {
 
         {/* Section heading */}
         <h2 className="text-6xl font-medium mt-6 text-center max-w-xl mx-auto">
-          Questions? We've got <span className="text-lime-400">answers</span>
+          Questions? We&#39;ve got{" "}
+          <span className="text-lime-400">answers</span>
         </h2>
 
         {/* FAQ items */}
