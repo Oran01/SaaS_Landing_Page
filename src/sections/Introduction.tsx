@@ -67,7 +67,7 @@ export default function Introduction() {
             </span>
             {/* Final callout line in lime green */}
             <span className="text-lime-400 block">
-              That's why we built Layers.
+              That&#39;s why we built Layers.
             </span>
           </div>
         </div>
