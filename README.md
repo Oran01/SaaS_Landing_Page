@@ -16,6 +16,7 @@ A sleek, scroll-animated landing experience built with modern web technologies a
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer%20Motion-EF3B77?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
+[![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 </div>
 
@@ -35,6 +36,12 @@ It features scroll-based animations, responsive layout, utility-first styling wi
 
 ---
 
+## 🌐 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Visit_Live_Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://saa-s-landing-page-phi.vercel.app/)
+
+---
+
 ### 🔍 Highlights
 
 - ✅ Responsive navigation with animated mobile menu
@@ -45,13 +52,6 @@ It features scroll-based animations, responsive layout, utility-first styling wi
 
 ---
 
-## ▶️ Tutorials Followed
-
-- [Frontend Tribe – Part 1](https://www.youtube.com/watch?v=ZZqIR0ru0I4)
-- [Frontend Tribe – Part 2](https://www.youtube.com/watch?v=ivAq5lJfpnM)
-
----
-
 ## 🧪 Features
 
 - ✨ Sticky animated navbar
@@ -59,6 +59,20 @@ It features scroll-based animations, responsive layout, utility-first styling wi
 - 🔁 Infinite integration logo ticker
 - 💬 Animated FAQ accordion
 - 🎨 Utility-first responsive UI
+
+---
+
+## 📦 Project Structure
+
+```bash
+📁 src/
+├── components/        # Reusable UI components (Button, Tag, Avatar, etc.)
+├── sections/          # Major page sections (Hero, Features, Integrations, etc.)
+├── assets/            # Static images and icons
+├── app/               # Next.js app entry
+│   ├── layout.tsx     # Root layout component
+│   └── page.tsx       # Main landing page
+```
 
 ---
 
@@ -92,27 +106,10 @@ yarn dev
 
 ---
 
-## 🧩 Folder Structure
+## ▶️ Tutorials Followed
 
-```bash
-app/
-  components/
-    Button.tsx
-    Tag.tsx
-    Avatar.tsx
-    ...
-  sections/
-    Hero.tsx
-    Features.tsx
-    Integrations.tsx
-    ...
-  assets/
-    images/
-  layout.tsx
-  page.tsx
-
-# Everything is modular, documented, and easily customizable.
-```
+- [Frontend Tribe – Part 1](https://www.youtube.com/watch?v=ZZqIR0ru0I4)
+- [Frontend Tribe – Part 2](https://www.youtube.com/watch?v=ivAq5lJfpnM)
 
 ---
 
@@ -120,6 +117,4 @@ app/
 
 Feel free to fork this repository and submit pull requests to improve the project!
 
----
-
-⭐ If you enjoyed this project, please consider giving it a star ⭐
+⭐ If you enjoyed this project, please consider giving it a star!
