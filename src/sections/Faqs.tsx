@@ -28,7 +28,7 @@ const faqs = [
   {
     question: "Can I work offline?",
     answer:
-      "Yes! Layers includes a robust offline mode. Changes sync automatically when you&#39;re back online, so you can keep working anywhere.",
+      "Yes! Layers includes a robust offline mode. Changes sync automatically when you’re back online, so you can keep working anywhere.",
   },
   {
     question: "How does Layers handle collaboration?",

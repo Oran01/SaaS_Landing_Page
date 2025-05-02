@@ -6,7 +6,7 @@ import { useEffect, useRef, useState } from "react";
 import { twMerge } from "tailwind-merge";
 
 // Full introductory sentence, split into individual words
-const text = `You&#39;re racing to create exceptional work, but traditional design tools slow you down with unnecessary complexity and steep learning curves.`;
+const text = `You’re racing to create exceptional work, but traditional design tools slow you down with unnecessary complexity and steep learning curves.`;
 const words = text.split(" ");
 
 /**
